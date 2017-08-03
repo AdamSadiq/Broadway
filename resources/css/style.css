@@ -9,7 +9,7 @@ a{
 
 #topheadlinks{
   color: white;
-  background-image: url("resources/the-flatiron-building.png");
+  background-image: url("Broadway/resources/the-flatiron-building.png");
   background-position: center;
 }
 
@@ -41,7 +41,7 @@ a{
   color: white;
   font-size: 23px;
   font-weight: bold;
-  background-image: url("resources/the-flatiron-building.png");
+  background-image: url("Broadway/resources/the-flatiron-building.png");
   background-position: center;
 }
 
